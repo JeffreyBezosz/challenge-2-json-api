@@ -1,0 +1,13 @@
+{
+  "name": "challenge-2-json-api",
+  "version": "1.0.0",
+  "description": "Basic JSON API for chat messages built with Node.js and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
